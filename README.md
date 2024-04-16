@@ -4,7 +4,7 @@ Welcome to React Tic Tac Toe! This is a simple implementation of the classic Tic
 
 ## Demo
 
-You can play the game online [here](https://tinyurl.com/tictactoegame2persons).
+You can play the game online [Tic Tac Toe](https://tinyurl.com/tictactoegame2persons).
 
 ## Features
 
