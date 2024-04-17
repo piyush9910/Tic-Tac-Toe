@@ -14,13 +14,11 @@ export default function Player({ initialName, symbol, isActive }) {
   }
 
   let editablePlayerName = <span className="player-name">{playerName}</span>;
-  //   let buttonCaption = 'Edit';
 
   if (isEditing) {
     editablePlayerName = (
       <input type="text" onChange={handleChange} required value={playerName} />
     );
-    // buttonCaption = 'Save'
   }
 
   return (
